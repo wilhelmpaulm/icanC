@@ -3,7 +3,7 @@ Hi guys! I made the files in advance for you
 
 So your prof is out for this week!
 >OH MY GLOB! Who are these weirdos!
->>Elementary my dear watson! they are PTS tutors!
+>>Elementary my dear Watson! they are Peer Tutors!
 
 CHAPTER 1
 Frenemies with programming:
