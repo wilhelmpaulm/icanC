@@ -10,6 +10,6 @@ Frenemies with programming:
 >I hate/want to learn how to program. . .
 
 >>Krizzy: "Like OMG it's like super hirap to code"
->>Janine: "I feels for you XOXO, it's like asking yaya to make carry my LV to the car"
+>Janine: "I feels for you XOXO, it's like asking yaya to make carry my LV to the car"
 >>Krizzy: "Hindi ko ma gets like kase naman I'm not aDELL"
->>Janine: "I know right! it's like so mahirap!"
+>Janine: "I know right! it's like so mahirap!"
