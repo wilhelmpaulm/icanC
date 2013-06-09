@@ -1,0 +1,34 @@
+1. It's used to make comments in the file. Comments are peices of text
+that is dismissed by the compiler.
+	
+	"Fool, ignore that piece of code!"
+
+2. "{" marks the beginning and "}" marks the end of instruction for the "main()" operation.
+	";" ends an instruction in C
+
+	"See that curly fry? That's is where we start and end our journey. . ."
+
+3. int main() - or the main function is what the compiler looks into for instruction on what to do.
+
+	"All kingdoms need a leader"
+
+4. #include <stdio.h> - basically it's the #include<"your library here">
+	
+	"Ever had the feeling that somethings missing in your life?"
+
+5. Instantiation 
+
+	"Real men only do single trips while carrying grocery!"
+
+6. Because Integers do not include fractions, it will only return a whole number
+hence 5 / 2 = 2 and not 2.5.
+
+	"What you can't see may hurt you"
+
+7. To accept input
+
+	"We accept all major creditcars, checks and C.O.D."
+
+8. To display results in the command line (windows)/ Terminal (OSX)/ Bash (Linux)
+
+	"I can show it to you, but I'll have to kill you afterwards"
